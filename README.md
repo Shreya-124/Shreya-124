@@ -18,6 +18,7 @@ I am a developer who is fascinated by deep learning and ML concepts.
   <li>PHP</li>
   <li>Python</li>
   <li>C++</li>
+  <li>OpenCV</li>
   <li>C</li>
  </ul>
  </details>
