@@ -10,6 +10,16 @@ I am a developer who is fascinated by deep learning and ML concepts.
 <details>
 <summary><strong>Some of the Languages I have Worked With:</strong></summary>
  <br>
+ <ul>
+  <li>HTML5</li>
+  <li>Bootstrap</li>
+  <li>CSS</li>
+  <li>SQL</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>C++</li>
+  <li>C</li>
+ </ul>
  </details>
    <h3>My Programming Profiles:</h3>
   <a href="https://www.hackerrank.com/soodshreya702" title='Hackerrank'>
@@ -29,6 +39,7 @@ I am a developer who is fascinated by deep learning and ML concepts.
 <a href="https://www.coursera.org/user/bbe8c7f017b4b82626f0eef1765aaed3" title='Coursera'>
     <img align="left" alt="Shreya's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
 </a>
+ <br/><br/>
  
 ---
 ## Have a look at my stats!
