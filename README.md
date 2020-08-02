@@ -1,5 +1,5 @@
  # Hi <img src="https://user-images.githubusercontent.com/58930225/89118373-e6413b00-d4c2-11ea-8cbc-8ca7ac9abb1d.gif" width="80px">
-I am Shreya Sood!<br/> 
+I am Shreya !<br/> 
 <center>
        <h3>Web Developer | ML Enthusiast | Competitive Coder</h3><br/> 
 </center>
