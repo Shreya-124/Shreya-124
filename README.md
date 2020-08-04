@@ -3,8 +3,7 @@ I am Shreya !<br/>
 <center>
        <h3>Web Developer | ML Enthusiast | Competitive Coder</h3><br/> 
 </center>
-I am an ECE undergraduate at National Institute of Technology, Bhopal.<br/>
-I am a developer who is fascinated by deep learning and ML concepts.
+I am a Final year Undergraduate in Electronics and Communication Engineering from National Institute of Technology, Bhopal (2017-2021).<br/> I am looking forward to gain abundant experience and nurture my skills in the field of development, data science, and deep learning, as believe it is my aptitude.<br/>
 
 ---
 <details>
