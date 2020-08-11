@@ -33,9 +33,7 @@ I am a Final year Undergraduate in Electronics and Communication Engineering fro
 </a>
 <a href="https://www.codechef.com/users/abc124" title='Codechef'>
     <img align="left" alt="Shreya's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a href="https://www.hackerearth.com/@keshavsingh4522" title='hackerearth'>
-    <img align="left" alt="Keshav's hackerearth" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerearth.svg" />
-</a>
+ </a>
 <a href="https://www.coursera.org/user/bbe8c7f017b4b82626f0eef1765aaed3" title='Coursera'>
     <img align="left" alt="Shreya's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
 </a>
