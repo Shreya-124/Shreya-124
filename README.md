@@ -37,6 +37,7 @@ I am a Final year Undergraduate in Electronics and Communication Engineering fro
 <a href="https://www.coursera.org/user/bbe8c7f017b4b82626f0eef1765aaed3" title='Coursera'>	
     <img align="left" alt="Shreya's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />	
 </a>
+<br/><br/>
    
  
 ---
