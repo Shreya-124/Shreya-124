@@ -21,23 +21,7 @@ I am a Final year Undergraduate in Electronics and Communication Engineering fro
   <li>C</li>
  </ul>
  </details>
-   <h3>My Programming Profiles:</h3>
-  <a href="https://www.hackerrank.com/soodshreya702" title='Hackerrank'>
-    <img align="left" alt="Shreya's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/abcd124/practice/" title='geeksforgeeks'>
-    <img align="left" alt="Shreya's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://leetcode.com/abcd124/" title='Leetcode'>
-    <img align="left" alt="Shreya's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/abc124" title='Codechef'>
-    <img align="left" alt="Shreya's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
- </a>
-<a href="https://www.coursera.org/user/bbe8c7f017b4b82626f0eef1765aaed3" title='Coursera'>
-    <img align="left" alt="Shreya's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
-</a>
- <br/><br/>
+   
  
 ---
 ## Have a look at my stats!
